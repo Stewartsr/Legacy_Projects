@@ -1,0 +1,129 @@
+nav {
+	display: inline;
+	background-color: #ddd;
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+nav ul {
+	font-weight: bold;
+	text-align: center;
+	font-size: 32px;
+	text-decoration: none;
+	font-family: "Gill Sans";
+}
+nav a {
+	
+	text-decoration: none;
+	color: black;
+	font-family: "Gill Sans", Calibri, sans-serif;
+	padding-right: 5px;
+	padding-left: 5px;
+	
+}
+nav a:hover {
+	background-color: #3399ff;
+}
+body {
+	background-image: url("./images/movie-banner.png"), linear-gradient(#b3d9ff, white); /* Standard syntax (must be last) */
+	background-position:right center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+  
+}
+
+form {
+	font-family: "Gill Sans", Calibri, sans-serif;
+}
+
+.movieBack {
+	background: rgba(175, 175, 175, .5);
+	border-radius: 10px;
+	margin-right: 30em;
+}
+.moviePoster {
+	box-shadow: 0 0 40px #000;
+	float:left;
+    	position: relative;
+	margin: 20 20px;
+}
+.posterPadding {
+	padding: 10px;
+}
+.movieTitle {
+	font-family: "Gill Sans", Calibri, sans-serif;
+	text-align: center;
+}
+.subtitle {
+	font-family: "Gill Sans", Calibri, sans-serif;
+}
+.movieDesc {
+	word-wrap: break-word;
+	margin: 20px;
+	font-size: 150%;
+	font-family: "Gill Sans", Calibri, sans-serif;
+}
+.logInBox {
+	background: rgba(175, 175, 175, .5);
+	border-radius: 10px;
+	padding: 10px;
+	margin: 0 auto;
+	display:block;
+	width: 500px;
+	font-family: "Gill Sans", Calibri, sans-serif;
+    clear: both;
+	font-size: 125%;
+}
+.logInBox input {
+	width: 50%;
+    	clear: both;
+	font-family: "Gill Sans", Calibri, sans-serif;
+}
+.movieTrailer {
+    margin: 0 auto;
+	display:block;
+}
+.map {
+	box-shadow: 0 0 40px #000;
+	margin: 0 auto;
+	display:block;
+	
+}
+.search{
+
+
+	padding:15px;
+	width: 50%;
+
+
+
+}
+.currentInfo{
+
+    	background-image: linear-gradient(#afafaf, white); 
+	width: 1440; 
+	padding:10px; 
+	border-width:4px; 
+	border-style:solid; 
+	border-color:black; 
+	min-height:230px;
+}
+.top_bar{
+
+	background: rgba(175, 175, 175, .5);
+	border-radius: 10px;
+	padding: 10px;
+	margin: 0 auto;
+	display:block;
+	font-family: "Gill Sans", Calibri, sans-serif;
+    	clear: both;
+	font-size: 125%;
+
+}
+.lookUpInfo{
+
+
+
+	font-family: "Gill Sans", Calibri, sans-serif;
+
+
+}
