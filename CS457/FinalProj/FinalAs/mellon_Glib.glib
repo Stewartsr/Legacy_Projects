@@ -1,0 +1,25 @@
+##OpenGL GLIB
+
+Perspective 90
+LookAt 0 0 3  0 0 0  0 1 0
+
+Vertex   mellon_vert.vert
+Fragment mellon_frag.frag
+Program Mellon						\
+	uNumOfLines <0. 0.1 1.0> 							\
+	uTol <0. 0. 1.> 							\
+	uAmp <0. 0. 10.0>								\
+	uFreq <0. 1.0 20.0>							\
+	uMorph <0. 0. 1.>							\
+	uKa <0. 0.1 1.0>			\
+	uKd <0. 0.6 1.0>			\
+	uKs <0. 0.3 1.0>			\
+	uShininess <3. 10. 1000.>		\
+	uLightX <-20. 5. 20.>   		\
+	uLightY <-20. 10. 20.>		\
+	uLightZ <-20. 20. 20.>		\
+	uSpecularColor {1. 1. 1. 1.}	\
+	uLineColor {.15 .68 .22 1} 
+	
+Color 0.6 1 0.6
+Sphere 1. 200 200
