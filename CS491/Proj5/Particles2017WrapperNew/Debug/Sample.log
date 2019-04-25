@@ -1,0 +1,20 @@
+﻿  sample.cpp
+c:\users\stewa_000\desktop\cs491\proj5\particles2017wrappernew\glui.h(758): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj5\particles2017wrappernew\sample.cpp(374): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj5\particles2017wrappernew\sample.cpp(313): warning C4101: 'ti': unreferenced local variable
+c:\users\stewa_000\desktop\cs491\proj5\particles2017wrappernew\sample.cpp(312): warning C4101: 'j': unreferenced local variable
+c:\users\stewa_000\desktop\cs491\proj5\particles2017wrappernew\sample.cpp(458): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj5\particles2017wrappernew\sample.cpp(482): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj5\particles2017wrappernew\sample.cpp(43): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj5\particles2017wrappernew\sample.cpp(43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj5\particles2017wrappernew\sample.cpp(1068): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj5\particles2017wrappernew\sample.cpp(1069): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj5\particles2017wrappernew\sample.cpp(1141): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj5\particles2017wrappernew\sample.cpp(1169): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj5\particles2017wrappernew\sample.cpp(1171): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj5\particles2017wrappernew\sample.cpp(1172): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj5\particles2017wrappernew\sample.cpp(1173): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj5\particles2017wrappernew\sample.cpp(1239): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj5\particles2017wrappernew\sample.cpp(1244): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\stewa_000\Desktop\CS491\Proj5\Particles2017WrapperNew\.\Debug\Sample.exe
