@@ -1,0 +1,29 @@
+﻿  sample.cpp
+c:\users\stewa_000\desktop\cs491\proj6\keyframe2017wrappernew\glui.h(758): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj6\keyframe2017wrappernew\sample.cpp(286): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj6\keyframe2017wrappernew\sample.cpp(289): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj6\keyframe2017wrappernew\sample.cpp(322): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj6\keyframe2017wrappernew\sample.cpp(323): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj6\keyframe2017wrappernew\sample.cpp(324): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj6\keyframe2017wrappernew\sample.cpp(325): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj6\keyframe2017wrappernew\sample.cpp(326): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj6\keyframe2017wrappernew\sample.cpp(327): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj6\keyframe2017wrappernew\sample.cpp(328): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj6\keyframe2017wrappernew\sample.cpp(330): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj6\keyframe2017wrappernew\sample.cpp(331): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj6\keyframe2017wrappernew\sample.cpp(332): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj6\keyframe2017wrappernew\sample.cpp(333): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj6\keyframe2017wrappernew\sample.cpp(334): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj6\keyframe2017wrappernew\sample.cpp(335): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj6\keyframe2017wrappernew\sample.cpp(336): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj6\keyframe2017wrappernew\sample.cpp(500): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj6\keyframe2017wrappernew\sample.cpp(596): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj6\keyframe2017wrappernew\sample.cpp(1226): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj6\keyframe2017wrappernew\sample.cpp(1227): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj6\keyframe2017wrappernew\sample.cpp(1317): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj6\keyframe2017wrappernew\sample.cpp(1345): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj6\keyframe2017wrappernew\sample.cpp(1347): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj6\keyframe2017wrappernew\sample.cpp(1348): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs491\proj6\keyframe2017wrappernew\sample.cpp(1349): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\stewa_000\Desktop\CS491\Proj6\Keyframe2017WrapperNew\.\Debug\Sample.exe
