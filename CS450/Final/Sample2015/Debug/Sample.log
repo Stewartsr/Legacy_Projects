@@ -1,0 +1,20 @@
+﻿  sample.cpp
+c:\users\stewa_000\desktop\cs450\final\sample2015\sample.cpp(293): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs450\final\sample2015\sample.cpp(294): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs450\final\sample2015\sample.cpp(295): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs450\final\sample2015\sample.cpp(298): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs450\final\sample2015\sample.cpp(299): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs450\final\sample2015\sample.cpp(300): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs450\final\sample2015\sample.cpp(310): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs450\final\sample2015\sample.cpp(311): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs450\final\sample2015\sample.cpp(315): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs450\final\sample2015\sample.cpp(316): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs450\final\sample2015\sample.cpp(527): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\cs450\final\sample2015\sample.cpp(528): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\stewa_000\desktop\cs450\final\sample2015\sample.cpp(803): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\stewa_000\desktop\cs450\final\sample2015\sample.cpp(811): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\stewa_000\desktop\cs450\final\sample2015\sample.cpp(902): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\stewa_000\desktop\cs450\final\sample2015\sample.cpp(923): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\stewa_000\desktop\cs450\final\sample2015\sample.cpp(1699): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\stewa_000\Desktop\CS450\Final\Sample2015\.\Debug\Sample.exe
