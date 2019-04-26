@@ -1,0 +1,8 @@
+﻿  sample.cpp
+c:\users\stewa_000\desktop\proj5\sample2015\sample.cpp(200): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\proj5\sample2015\sample.cpp(205): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\proj5\sample2015\sample.cpp(215): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\proj5\sample2015\sample.cpp(216): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\stewa_000\desktop\proj5\sample2015\sample.cpp(533): warning C4305: '=': truncation from 'double' to 'float'
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\stewa_000\Desktop\proj5\Sample2015\.\Debug\Sample.exe
